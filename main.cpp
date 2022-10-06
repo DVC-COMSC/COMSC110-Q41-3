@@ -4,17 +4,6 @@ using namespace std;
 
 int main()
 {
-	const double rate1 = 1.10;
-	const double rate2 = 2.20;
-	const double rate3 = 3.70;
-	const double rate4 = 4.80;
-	double total_charge;
-	double weight, distance, rate;
-
+	int num1, num2, num3;
 	
-        // **********************
-        // Your code 
-        // **********************
-        
-	cout << total_charge << endl;
 }
